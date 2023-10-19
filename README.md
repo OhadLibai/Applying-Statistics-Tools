@@ -1,1 +1,1 @@
-Repository incorporate Python libraries such as numpy, matplotlib, scipy and sklearn.
+Repository incorporate Python libraries such as numpy, matplotlib, pandas, scipy and sklearn.
